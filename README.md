@@ -1,4 +1,6 @@
 A C++ project designed to manage hospital operations such as patient records, diagnosis, and billing information. The system allows hospital staff to log in, add new patient records, update diagnosis details, and manage billing
+Features
+
 
 Features
 
