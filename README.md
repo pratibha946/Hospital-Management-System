@@ -18,3 +18,7 @@ A C++ project designed to manage hospital operations such as patient records, di
 
 ## Screenshots
 
+![hospitalProject1](https://github.com/user-attachments/assets/be72dee5-629b-4bb9-be86-2410b23488db)
+
+
+![hospitalProject2](https://github.com/user-attachments/assets/feae8437-44a9-452e-b3c8-18c98ebd8a97)
