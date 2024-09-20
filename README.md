@@ -11,7 +11,7 @@ A C++ project designed to manage hospital operations such as patient records, di
 - Full History: View complete patient history, including diagnosis and billing.
 
 ##  Requirements
--C++ Compiler (VS Code, g++ etc.)
+- C++ Compiler (VS Code, g++ etc.)
 - Basic knowledge of C++ for understanding the code.
 - A terminal or command prompt to compile and run the program.
 - Object oriented concepts.
