@@ -1,15 +1,23 @@
-A C++ project designed to manage hospital operations such as patient records, diagnosis, and billing information. The system allows hospital staff to log in, add new patient records, update diagnosis details, and manage billing
-Features
+# Hospital-Management-System 🎫
 
+A hospital management system is a computerized system that manages the various aspects of a hospital, such as appointment schedules, billing, hospital details, Doctor details and more. It is fundamentally designed to streamline the operations of a hospital and improve the efficiency of healthcare delivery.
 
-Features
+## 🗃️ Features
 
-User Authentication:    Provides a login and sign-up system for staff.
+- Emergency Seat Booking: The system provides the facility for patients to book an urgent appointment for the treatment.
 
-Patient Management:    Allows the addition and viewing of patient records.
+- Payment & Billing: The system provides billing information, including details of the patient and the disease.
 
-Diagnosis Information:    Staff can record and update symptoms, diagnosis, medications, and ward information.
+- Doctor Details & Appointment scheduling: The system allows patients to schedule appointments after knowing about the Doctors with their specialisation.
 
-Billing System:    Adds billing details such as treatment cost, room charges, and other medical expenses.
+- Hospital Details: The system provides the information about the hospital & the services it offers to the patients.
 
-Full History:    View complete patient history, including diagnosis and billing.
+## 📋 Requirements
+- gcc version 6.3.0 or higher
+- Object oriented concepts
+
+## 🎫 Contribution
+If you would like to contribute to the development of the hospital management system, please fork the repository and submit a pull request. ^_^
+
+## ⚖️License
+The hospital management system is licensed under the MIT License.
